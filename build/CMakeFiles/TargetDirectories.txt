@@ -1,0 +1,6 @@
+/workspaces/Test/build/CMakeFiles/c_calculator.dir
+/workspaces/Test/build/CMakeFiles/calculator_lib.dir
+/workspaces/Test/build/CMakeFiles/gtest_example.dir
+/workspaces/Test/build/CMakeFiles/test.dir
+/workspaces/Test/build/CMakeFiles/edit_cache.dir
+/workspaces/Test/build/CMakeFiles/rebuild_cache.dir
